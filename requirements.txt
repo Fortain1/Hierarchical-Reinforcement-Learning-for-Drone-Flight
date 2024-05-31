@@ -1,0 +1,10 @@
+gymnasium==0.29.0
+ipykernel==6.29.4
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+PyFlyt==0.15.4
+stable-baselines3[extra]==2.2.1
+tensorboard==2.10.0
+torch==2.3.0
+wandb==0.16.6
