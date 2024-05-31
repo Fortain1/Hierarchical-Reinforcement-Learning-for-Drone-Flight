@@ -1,5 +1,10 @@
 # Autonomous Drone Flight via Hierarchical Reinforcement Learning
-This github repository contains the codebase 
+This github repository contains the codebase for my master thesis on
+Controlling Drones via Hierarchical Reinforcement Learning: A Study of Hierarchical Reinforcement Learning for autonomous drones
+
+The thesis aims to test if HRL applied to the complex task of drone flight can help improve performance, adaptibility to environment pertubations and enhance multitask learning.
+
+It tests PPO against PPOC on hovering, flying to waypoints and avoiding obstacles. In the animation below, you can see PPO and PPOC agents flying in an environment with obstacles. The 3d-rendering is not 100% accurate.
 
 ![Demo GIF](src/assets/multiple_trajectories.gif)
 
